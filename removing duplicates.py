@@ -2,11 +2,10 @@
 # Name:        removing duplicates
 # Purpose:
 #
-# Author:      pa8jones
+# Author:      Ben Jones
 #
 # Created:     03/02/2022
-# Copyright:   (c) pa8jones 2022
-# Licence:     <your licence>
+# Copyright:   (c) Ben Jones 2022
 #-------------------------------------------------------------------------------
 
 new_menu = ['Hawaiian', 'Margherita', 'Mushroom', 'Prosciutto', 'Meat Feast', 'Hawaiian', 'Bacon', 'Black Olive Special', 'Sausage', 'Sausage']
