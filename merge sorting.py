@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        merge sorting
+# Name:        Merge sorting
 # Purpose:
 #
 # Author:      Ben Jones
