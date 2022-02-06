@@ -2,11 +2,10 @@
 # Name:        bubble sorting then binary search
 # Purpose:
 #
-# Author:      pa8jones
+# Author:      Ben Jones
 #
 # Created:     03/02/2022
-# Copyright:   (c) pa8jones 2022
-# Licence:     <your licence>
+# Copyright:   (c) Ben Jones 2022
 #-------------------------------------------------------------------------------
 
 import random
