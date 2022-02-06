@@ -1,5 +1,5 @@
 # python-algorithms
-Basic sort and search algorithms written in python
+Basic sort and search algorithms written in python. These were all developed as part of my Computer Science course to demonstrate understanding so they aren't 100% efficent
 
 # binary search.py
 Pefroms a basic binary search on a predefined array
