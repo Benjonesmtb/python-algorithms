@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        removing duplicates
+# Name:        Removing duplicates
 # Purpose:
 #
 # Author:      Ben Jones
